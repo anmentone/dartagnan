@@ -1,0 +1,11 @@
+name: dartagnan
+version: 0.0.1
+description: >-
+  A basic Http client for Dart, which supports networking error as Timeout, NoInternetConnection etc.
+homepage: https://github.com/anmentone/dartagnan
+# documentation: https://doc url
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  extra_pedantic: ^1.2.0
+  http: ^0.12.2
